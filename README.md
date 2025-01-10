@@ -23,6 +23,6 @@ Welcome to my profile!
 
 ### **My Github stats**
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=felipexxxxx&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipexxxxx&layout=compact&theme=radical" alt="Most used languages" height="180"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=felipexxxxx&show_icons=true&theme=radical" alt="GitHub Stats" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipexxxxx&layout=compact&theme=radical" alt="Most used languages" height="190"/>
 </p>
