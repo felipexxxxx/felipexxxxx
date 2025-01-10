@@ -15,7 +15,7 @@ Bem-vindo ao meu perfil!
 ---
 
 ### **Minhas estatísticas no GitHub**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuNomeDeUsuário&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipexxxxx&show_icons=true&theme=radical)
 
 ### **Linguagens mais usadas**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuNomeDeUsuário&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipexxxxx&layout=compact&theme=radical)
