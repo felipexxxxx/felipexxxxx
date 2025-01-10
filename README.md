@@ -1,9 +1,9 @@
-# Sobre mim
-Bem-vindo ao meu perfil!
+# About me
+Welcome to my profile!
 
-// **Tecnologias que uso:**
+// **Used techs:**
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -21,8 +21,8 @@ Bem-vindo ao meu perfil!
 
 ---
 
-### **Minhas estatísticas no GitHub**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipexxxxx&show_icons=true&theme=radical)
-
-### **Linguagens mais usadas**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipexxxxx&layout=compact&theme=radical)
+### **My Github stats**
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipexxxxx&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipexxxxx&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="200"/>
+</p>
