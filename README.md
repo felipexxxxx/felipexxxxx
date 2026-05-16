@@ -1,20 +1,6 @@
-<div align="center">
+## Sobre mim
 
 **Construindo aplicacoes completas com foco em produtos reais**
-
-<p>
-  <a href="https://www.linkedin.com/in/felipeplins">
-    <img src="https://img.shields.io/badge/LinkedIn-felipeplins-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/felipeplins">
-    <img src="https://img.shields.io/badge/Instagram-felipeplins-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=felipexxxxx&style=for-the-badge&color=0e75b6" alt="Profile views" />
-</p>
-
-</div>
-
-## Sobre mim
 
 - Desenvolvo APIs REST com Java, Spring Boot, JWT, PostgreSQL, Redis, Flyway, OpenAPI e Docker.
 - Crio interfaces web e mobile com HTML, CSS, JavaScript, TypeScript, React, React Native, Expo, Vite, Tailwind CSS, NativeWind e Bootstrap.
@@ -98,5 +84,15 @@
 <div align="center">
 
 **Aberto a aprender, construir e colaborar em projetos backend, mobile, dados e automacao.**
+
+<p>
+  <a href="https://www.linkedin.com/in/felipeplins">
+    <img src="https://img.shields.io/badge/LinkedIn-felipeplins-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/felipeplins">
+    <img src="https://img.shields.io/badge/Instagram-felipeplins-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=felipexxxxx&style=for-the-badge&color=0e75b6" alt="Profile views" />
+</p>
 
 </div>
