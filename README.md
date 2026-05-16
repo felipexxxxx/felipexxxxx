@@ -1,7 +1,5 @@
 <div align="center">
 
-# Backend, mobile e automacao
-
 **Construindo aplicacoes completas com foco em produtos reais**
 
 <p>
