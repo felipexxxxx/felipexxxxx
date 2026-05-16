@@ -1,0 +1,121 @@
+<!--
+Profile README structured by hand using maurodesouza/profile-readme-generator as a base:
+intro, about, technologies, projects, stats and contact sections.
+-->
+
+<div align="center">
+
+# Felipe de Paula Lins e Silva
+
+**Backend, mobile e automacao com foco em produtos reais**
+
+<p>
+  <a href="https://www.linkedin.com/in/felipeplins">
+    <img src="https://img.shields.io/badge/LinkedIn-felipeplins-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/felipeplins">
+    <img src="https://img.shields.io/badge/Instagram-felipeplins-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=felipexxxxx&style=for-the-badge&color=0e75b6" alt="Profile views" />
+</p>
+
+</div>
+
+## Sobre mim
+
+- Desenvolvo APIs REST com Java, Spring Boot, JWT, PostgreSQL, Redis, Flyway, OpenAPI e Docker.
+- Crio interfaces web e mobile com TypeScript, React, React Native, Expo, Vite, Tailwind CSS e NativeWind.
+- Tenho estudado e implementado sistemas distribuidos com API Gateway, microsservicos, RabbitMQ, Redis e Docker Compose.
+- Tambem uso Python para ciencia de dados, machine learning, notebooks e automacoes de navegador.
+- Meu foco atual e transformar ideias de produto em sistemas completos: backend, banco, autenticacao, frontend e fluxo de deploy local.
+
+## Em construcao agora
+
+| Projeto | Foco | Stack principal |
+|---|---|---|
+| [All Set API](https://github.com/leonardodesaboia/TCC-back) | Marketplace de servicos autonomos, auth, usuarios, profissionais, pedidos Express e regras de negocio | Java 21, Spring Boot 3.5, PostgreSQL, Redis, JWT, Flyway, Docker |
+| [All Set Mobile](https://github.com/leonardodesaboia/TCC-front) | App mobile/web para clientes e profissionais, navegacao e integracao com API | Expo, React Native, TypeScript, NativeWind |
+| [HealthSys Distribuido](https://github.com/felipexxxxx/Comp-Dist-Backend) | SaaS de saude com gateway, microsservicos, autenticacao, pacientes, triagem e notificacoes | Spring Boot, PostgreSQL, RabbitMQ, Redis, Docker Compose |
+| [Olist Delivery ML](https://github.com/Overkillas/olist-delivery-time-prediction) | Predicao de tempo de entrega com EDA, pipelines e modelos de regressao | Python, Pandas, Scikit-learn, Plotly, Jupyter |
+
+## Stack
+
+### Backend e infraestrutura
+
+<p>
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" />
+</p>
+
+### Frontend e mobile
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+### Dados, automacao e ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+## Projetos publicos
+
+| Repositorio | Linguagem | Destaque |
+|---|---|---|
+| [As aventuras de Menno](https://github.com/felipexxxxx/As-aventuras-de-Menno) | GDScript | Projeto de jogo |
+| [Tetris](https://github.com/felipexxxxx/Tetris) | JavaScript | Logica de jogo em web |
+| [Bovine Production Processing Distribution Flow](https://github.com/felipexxxxx/Bovine-Production-Processing-Distribution-Flow) | Java | Fluxo de processamento e distribuicao |
+
+## GitHub em numeros
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=felipexxxxx&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipexxxxx&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+</div>
+
+## Como eu trabalho
+
+- Gosto de entender a regra de negocio antes de codar a tela ou o endpoint.
+- Prefiro implementacoes simples, testaveis e alinhadas ao que o projeto ja usa.
+- Documento contratos de API, variaveis de ambiente e passos de execucao para facilitar manutencao.
+- Valido integracoes de ponta a ponta: backend, banco, frontend, Docker e smoke tests quando faz sentido.
+
+---
+
+<div align="center">
+
+**Aberto a aprender, construir e colaborar em projetos backend, mobile, dados e automacao.**
+
+</div>
