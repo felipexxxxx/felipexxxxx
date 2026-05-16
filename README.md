@@ -1,6 +1,6 @@
 <div align="center">
 
-# Felipe de Paula Lins e Silva
+# Felipe Lins
 
 **Backend, mobile e automacao com foco em produtos reais**
 
