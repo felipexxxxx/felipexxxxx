@@ -84,8 +84,8 @@
 ## GitHub em numeros
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=felipexxxxx&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipexxxxx&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://raw.githubusercontent.com/felipexxxxx/felipexxxxx/stats-output/stats.svg" alt="stats graph" />
+  <img height="165" src="https://raw.githubusercontent.com/felipexxxxx/felipexxxxx/languages-output/languages.svg" alt="languages graph" />
 </div>
 
 ## Como eu trabalho
