@@ -1,8 +1,8 @@
 <div align="center">
 
-# Felipe Lins
+# Backend, mobile e automacao
 
-**Backend, mobile e automacao com foco em produtos reais**
+**Construindo aplicacoes completas com foco em produtos reais**
 
 <p>
   <a href="https://www.linkedin.com/in/felipeplins">
