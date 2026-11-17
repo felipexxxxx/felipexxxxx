@@ -72,16 +72,9 @@ I'm an AWS Certified AI Practitioner with advanced English proficiency. I'm inte
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## Selected Projects
-
-- **[Road Safety Analytics Ceará](https://github.com/felipexxxxx/road-safety-analytics-ceara)** — Power BI analysis of 5,513 road incidents, with data validation, a star schema and DAX measures.
-- **AllSet — [Backend](https://github.com/leonardodesaboia/TCC-back) · [Mobile App](https://github.com/leonardodesaboia/TCC-front)** — A team-built capstone project connecting clients and independent service providers, using React Native, Java (Spring Boot), PostgreSQL and Redis.
-- **Professional AI and automation work** — Python pipelines with HTTP requests and controlled concurrency, document processing and Copilot agents based on corporate review guidelines. Internal projects; source code is not publicly available.
-
-## GitHub Stats
+## Most Used Languages
 
 <div align="center">
-  <img height="165" src="https://raw.githubusercontent.com/felipexxxxx/felipexxxxx/stats-output/stats.svg" alt="stats graph" />
   <img height="165" src="https://raw.githubusercontent.com/felipexxxxx/felipexxxxx/languages-output/languages.svg" alt="languages graph" />
 </div>
 
