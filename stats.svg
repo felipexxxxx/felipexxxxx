@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="165" viewBox="0 0 560 165" role="img" aria-labelledby="title description">
+<title id="title">felipexxxxx: public GitHub statistics</title>
+<desc id="description">Original public repos: 17; Stars earned: 1; Forks received: 2. Forked and private repositories are excluded.</desc>
+<style>text{font-family:Segoe UI,Ubuntu,sans-serif}.title{font-size:18px;font-weight:600;fill:#58a6ff}.value{font-size:25px;font-weight:600;fill:#f0f6fc}.label{font-size:12px;fill:#c3d1d9}.note{font-size:11px;fill:#8b949e}</style>
+<rect width="560" height="165" rx="8" fill="#0d1117"/>
+<text x="25" y="34" class="title">GitHub Stats</text>
+<text x="25" y="86" class="value">17</text><text x="25" y="111" class="label">Original public repos</text><text x="204" y="86" class="value">1</text><text x="204" y="111" class="label">Stars earned</text><text x="361" y="86" class="value">2</text><text x="361" y="111" class="label">Forks received</text>
+<text x="25" y="146" class="note">Public repository metadata · forked repositories excluded</text>
+</svg>
