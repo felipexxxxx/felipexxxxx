@@ -2,7 +2,7 @@ name: Generate languages card
 
 on:
   schedule:
-    - cron: "* */12 * * *"
+    - cron: "29 */12 * * *"
 
   workflow_dispatch:
 
