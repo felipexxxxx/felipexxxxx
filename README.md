@@ -33,10 +33,8 @@ I hold the AWS Certified AI Practitioner and AWS Certified Cloud Practitioner cr
 
 ### Databases & Data Infrastructure
 
-Relational databases (PostgreSQL) and document-oriented NoSQL databases (MongoDB).
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB (NoSQL)](https://img.shields.io/badge/MongoDB%20%28NoSQL%29-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
